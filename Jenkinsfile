@@ -6,7 +6,7 @@ pipeline {
 	//  maven 'apache-maven-3.6.3'
     // }
     environment {
-        PROJECT = "WELCOME TO DEVOPS - JENKINS CI/CD TEST"
+        PROJECT = "WELCOME TO DEVOPS - JENKINS APPLICATION CI/CD TEST"
     }
     stages {
         stage("Dev Tools Verification") {
